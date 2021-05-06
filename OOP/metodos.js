@@ -1,4 +1,4 @@
-//Determinadas ações sobre o objeto
+//Determinadas ações realizadas sobre o objeto
 
 let estudante = {
     nome: "Math",
